@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0af98e6a-c78c-40be-9e55-f968cff0fc15" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/repository.html" afterDir="false" />
-    </list>
+    <list default="true" id="0af98e6a-c78c-40be-9e55-f968cff0fc15" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,12 +27,12 @@
     &quot;assignee&quot;: &quot;Protocythr&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Protocythr/mathclub-website.git",
-    "accountId": "b0e1a7a8-74ba-4a99-a06e-f66ed4680624"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Protocythr/mathclub-website.git&quot;,
+    &quot;accountId&quot;: &quot;b0e1a7a8-74ba-4a99-a06e-f66ed4680624&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -106,6 +102,7 @@
       <workItem from="1789684633323" duration="11000" />
       <workItem from="1789754972304" duration="29000" />
       <workItem from="1790692216061" duration="1088000" />
+      <workItem from="1790714962581" duration="34000" />
     </task>
     <servers />
   </component>
